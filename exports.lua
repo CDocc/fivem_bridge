@@ -3,6 +3,7 @@ Exports = {
     QBXExport = "qbx_core",
     ESXExport = "es_extended",
     OXCoreExport = "ox_core",
+    BJCoreExport = "core"
 
     OXInv = "ox_inventory",
     QBInv = "qb-inventory",
@@ -10,6 +11,7 @@ Exports = {
     CoreInv = "core_inventory",
     CodeMInv = "codem-inventory",
     OrigenInv = "origen_inventory",
+    BJCoreInv = "inventory",
 
     OXLibExport = "ox_lib",
 
